@@ -40,7 +40,7 @@ I am a Full Stack .NET Developer with 7+ years of experience in building robust 
 - 🔭 I currently working as a Full Stack .NET Developer and Azure Engineer.   
 - 🌱 I’m currently learning Python, Docker and Kubernetes  
 - ❓ Ask me about anything related to ASP.NET Core MVC, SQL Server, Microsoft Azure, SharePoint, and Power BI related technologies  
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+ 
 </td><td valign="top" width="50%">
 <div align="center">
 <img src="https://th.bing.com/th/id/OIG4.B0rHyqtpVpEdZKkMB3VK?w=500&h=500&rs=1&pid=ImgDetMain" align="center" style="width: 100%" />
