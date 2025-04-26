@@ -31,7 +31,7 @@
 
 
 ### Glad to see you here!  
-I am a Full Stack .NET Developer with 7+ years of experience in building robust and scalable web applications. My expertise spans across front-end and back-end development, ensuring seamless integration and functionality. I specialize in .NET technologies and have extensive experience with Azure services, including Azure SQL Database, Azure App Service, Azure Virtual Machine (Windows), and Azrue storage.  
+I am a Full Stack .NET Developer with 8+ years of experience in building robust and scalable web applications. My expertise spans across front-end and back-end development, ensuring seamless integration and functionality. I specialize in .NET technologies and have extensive experience with Azure services, including Azure SQL Database, Azure App Service, Azure Virtual Machine (Windows), and Azrue storage.  
   
 
 <br/>  
